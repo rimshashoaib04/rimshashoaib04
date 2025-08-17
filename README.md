@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://i.pinimg.com/736x/01/77/b9/0177b9c5b7002b8b379d5cadc6859d08.jpg" width="600" />
+  <img src="https://i.pinimg.com/736x/45/d2/ef/45d2ef602219a1b0d109fc54efbaf580.jpg" width="700" />
 </p>
+
 <!--
 **rimshashoaib04/rimshashoaib04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
