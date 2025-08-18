@@ -55,13 +55,10 @@
 ---
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rimshashoaib04&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-## 🌸 GitHub Stats & XP  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=synthwave&bg_color=1a0033&title_color=ff69b4&icon_color=ff1493&text_color=ffffff&border_color=ff69b4)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=synthwave&bg_color=1a0033&title_color=ff69b4&text_color=ffffff&border_color=ff69b4)  
-
+###
 </div>
 
 
