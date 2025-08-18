@@ -1,21 +1,27 @@
+<h1 align="center">🌸 Welcome to My GitHub Adventure! 🌸</h1>
+
 <p align="center">
   <img src="https://i.pinimg.com/736x/45/d2/ef/45d2ef602219a1b0d109fc54efbaf580.jpg" width="650" />
-  
-# 🌸 Welcome to My Github Adventure!
-
+</p>
 
 ---
 
-## 🌸 About Me
+<div align="center">
+
+## 🌸 About Me  
 ⛏️ Mining bugs | 🛡️ Crafting secure code | ☁️ Exploring cloud biomes  
 📦 **Inventory:** React, NodeJS, MongoDB, Express  
 🏹 **Current quest:** Mastering security & cloud computing  
 
 > “Every bug fixed is an XP orb earned!” ✨  
 
+</div>
+
 ---
 
-## 🌸 Languages & Tools
+<div align="center">
+
+## 🌸 Languages & Tools  
 
 <p align="center">
   <!-- Frontend -->
@@ -30,7 +36,7 @@
 
   <!-- UI Frameworks -->
   <img src="https://www.vectorlogo.zone/logos/daisyui/daisyui-icon.svg" height="40" alt="daisyUI logo" />
-  <img src="https://www.vectorlogo.zone/logos/mui/mui-icon.svg" height="40" alt="MUI logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="MUI logo" />
 
   <!-- Backend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
@@ -43,9 +49,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode logo" />
 </p>
- 
+
+</div>
 
 ---
+
+<div align="center">
 
 ## 🌸 GitHub Stats & XP  
 
@@ -53,12 +62,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=synthwave&bg_color=1a0033&title_color=ff69b4&text_color=ffffff&border_color=ff69b4)  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&ring=ff69b4&fire=ff1493&currStreakLabel=ffffff)  
-
-
----
-
-⭐️ *"Code like you're building the next great Minecraft mod!"* ⭐️  
-
-</p>
+</div>
 
