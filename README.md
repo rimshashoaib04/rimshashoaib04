@@ -17,7 +17,31 @@
 
 </div>
 
----
+<div align="center">
+
+## 🌸 Connect with Me  
+
+<p align="center">
+  <!-- Email -->
+  <a href="mailto:rimsha0401shoaib@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-ff69b4?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
+  <span style="margin: 0 10px;"></span>
+  
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/rimsha-shoaib-b9368a286/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <span style="margin: 0 10px;"></span>
+  
+  <!-- Discord -->
+  <a href="https://discordapp.com/users/kitt3nblade" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-ff69b4?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
+</div>
 
 <div align="center">
 
@@ -54,11 +78,16 @@
 
 ---
 
+
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rimshashoaib04&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
+<div align="center">
+  
+### ⭐️ "Code like you're building the next great Minecraft mod!" ⭐️
+</div>
 </div>
 
 
