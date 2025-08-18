@@ -19,70 +19,29 @@
 
 <div align="center">
 
-## 🌸 Connect with Me  
+## 🌸 Connect With Me  
 
-<p align="center">
-  <!-- Email -->
-  <a href="mailto:rimsha0401shoaib@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-ff69b4?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  
-  <span style="margin: 0 10px;"></span>
-  
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/rimsha-shoaib-b9368a286/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  
-  <span style="margin: 0 10px;"></span>
-  
-  <!-- Discord -->
-  <a href="https://discordapp.com/users/kitt3nblade" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-ff69b4?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+  <a href="mailto:rimsha0401shoaib@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=ff69b4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /></a> 
+  <a href="https://www.linkedin.com/in/rimsha-shoaib-b9368a286/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=ff69b4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /></a> 
+  <a href="https://discordapp.com/users/kitt3nblade" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=ff69b4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" /></a>
 </div>
+
+</div>
+
+  ---
+
 
 <div align="center">
 
-## 🌸 Languages & Tools  
-
-<p align="center">
-  <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="Redux logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap logo" />
-  <!-- Tailwind (icon style, matches others) -->
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="Tailwind CSS logo" />
-
-  <!-- UI Frameworks -->
-  <img src="https://www.vectorlogo.zone/logos/daisyui/daisyui-icon.svg" height="40" alt="daisyUI logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="MUI logo" />
-
-  <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
-
-  <!-- Tools -->
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="Postman logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode logo" />
-</p>
+## 🌸 Languages & Tools
+  
+<p align="center"> <!-- Frontend --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="Redux logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap logo" /> <!-- Tailwind (icon style, matches others) --> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="Tailwind CSS logo" /> <!-- UI Frameworks --> <img src="https://www.vectorlogo.zone/logos/daisyui/daisyui-icon.svg" height="40" alt="daisyUI logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="MUI logo" /> <!-- Backend --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" /> <!-- Tools --> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="Postman logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode logo" /> </p>
 
 </div>
 
 ---
 
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rimshashoaib04&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
 
 <div align="center">
   
