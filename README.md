@@ -12,17 +12,39 @@
 ⛏️ Mining bugs | 🛡️ Crafting secure code | ☁️ Exploring cloud biomes  
 ## ⚔️ Skills
 
-  <!-- React -->
-  <img src="https://img.shields.io/badge/React-75%25-ff69b4?style=flat&logo=react&logoColor=white" />
-  
-  <!-- Node.js -->
-  <img src="https://img.shields.io/badge/Node.js-60%25-ff69b4?style=flat&logo=node.js&logoColor=white" />
-  
-  <!-- MongoDB -->
-  <img src="https://img.shields.io/badge/MongoDB-50%25-ff69b4?style=flat&logo=mongodb&logoColor=white" />
-  
-  <!-- Express -->
-  <img src="https://img.shields.io/badge/Express-60%25-ff69b4?style=flat&logo=express&logoColor=white" />
+
+<table align="center" border="bold">
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30" height="30"/><br><b>React</b><br/>
+      <img src="https://i.ibb.co/F7vV2Pf/pink-heart.png" width="20"/>
+      <img src="https://i.ibb.co/F7vV2Pf/pink-heart.png" width="20"/>
+      <img src="https://i.ibb.co/F7vV2Pf/pink-heart.png" width="20"/>
+    </td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="30" height="30"/><br/><b>Node.js</b><br/>
+      <img src="https://raw.githubusercontent.com/yourusername/your-repo-name/main/assets/heart_full.png" width="20"/>
+      <img src="https://raw.githubusercontent.com/yourusername/your-repo-name/main/assets/heart_full.png" width="20"/>
+      <img src="https://raw.githubusercontent.com/yourusername/your-repo-name/main/assets/heart_full.png" width="20"/>
+      <img src="https://raw.githubusercontent.com/yourusername/your-repo-name/main/assets/heart_empty.png" width="20"/>
+      <img src="https://raw.githubusercontent.com/yourusername/your-repo-name/main/assets/heart_empty.png" width="20"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="30" height="30"/><br/><b>Express</b><br/>
+      <img src="https://raw.githubusercontent.com/yourusername/your-repo-name/main/assets/heart_full.png" width="20"/>
+      <img src="https://raw.githubusercontent.com/yourusername/your-repo-name/main/assets/heart_full.png" width="20"/>
+      <img src="https://raw.githubusercontent.com/yourusername/your-repo-name/main/assets/heart_empty.png" width="20"/>
+      <img src="https://raw.githubusercontent.com/yourusername/your-repo-name/main/assets/heart_empty.png" width="20"/>
+      <img src="https://raw.githubusercontent.com/yourusername/your-repo-name/main/assets/heart_empty.png" width="20"/>
+    </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="30" height="30"/><br/><b>MongoDB</b><br/>
+      <img src="https://raw.githubusercontent.com/yourusername/your-repo-name/main/assets/heart_full.png" width="20"/>
+      <img src="https://raw.githubusercontent.com/yourusername/your-repo-name/main/assets/heart_full.png" width="20"/>
+      <img src="https://raw.githubusercontent.com/yourusername/your-repo-name/main/assets/heart_empty.png" width="20"/>
+      <img src="https://raw.githubusercontent.com/yourusername/your-repo-name/main/assets/heart_empty.png" width="20"/>
+      <img src="https://raw.githubusercontent.com/yourusername/your-repo-name/main/assets/heart_empty.png" width="20"/>
+    </td>
+  </tr>
+</table>
 
 🏹 **Current quest:** Mastering security & cloud computing  
 
