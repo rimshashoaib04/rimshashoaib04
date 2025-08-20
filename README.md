@@ -59,7 +59,7 @@
 ## 🌸 Connect With Me  
 
 <div align="center">
-  <a href="mailto:rimsha0401shoaib@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=ff69b4&logoColor=white&labelColor=&style=for-the-badge" width="100" height="100" alt="gmail logo" /></a> 
+  <a href="mailto:rimsha0401shoaib@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=ff69b4&logoColor=white&labelColor=&style=for-the-badge" width="101" height="100" alt="gmail logo" /></a> 
   <a href="https://www.linkedin.com/in/rimsha-shoaib-b9368a286/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=ff69b4&logoColor=white&labelColor=&style=for-the-badge"  width="105" height="105" alt="linkedin logo" /></a> 
   <a href="https://discordapp.com/users/kitt3nblade" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=ff69b4&logoColor=white&labelColor=&style=for-the-badge"  width="122" height="122" alt="discord logo" /></a>
 </div>
