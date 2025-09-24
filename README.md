@@ -8,7 +8,7 @@
 
 <div align="center">
 
-## 🌸 About Me  
+## 🌸 About Me 🌸
 ⛏️ Mining bugs | 🛡️ Crafting secure code | ☁️ Exploring cloud biomes  
 ## ⚔️ Skills
 
@@ -56,7 +56,7 @@
 
 <div align="center">
 
-## 🌸 Connect With Me  
+## 🌸 Connect With Me 🌸
 
 <div align="center">
   <a href="mailto:rimsha0401shoaib@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=ff69b4&logoColor=white&labelColor=&style=for-the-badge" alt="gmail logo" /></a>
