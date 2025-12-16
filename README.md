@@ -1,4 +1,4 @@
-<h1 align="center">🌸 Welcome to My GitHub Realm.ᐟ.ᐟ 🌸</h1>
+<h1 align="center">🌸 My GitHub Realm.ᐟ.ᐟ 🌸</h1>
 
 <p align="center">
   <img src="https://i.pinimg.com/736x/45/d2/ef/45d2ef602219a1b0d109fc54efbaf580.jpg" width="650" />
@@ -9,13 +9,30 @@
 <div align="center">
 
 ## 🌸 About Me 🌸
-⛏️ Mining bugs | 🛡️ Crafting secure code | ☁️ Exploring cloud biomes  
+◉ Mining bugs | ◉ Building frontend interfaces | ◉ Crafting smooth user experiences 
 ## ⚔️ Skills
 
 <p align="center">
   <table>
     <tr>
+     <td align="center" width="200">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript Logo"/>
+  <br>
+  <b>JavaScript</b>
+  <br>
+  <img src="https://github.com/rimshashoaib04/rimshashoaib04/blob/main/images/MCheart.png?raw=true" width="20" alt="heart"/>
+  <img src="https://github.com/rimshashoaib04/rimshashoaib04/blob/main/images/MCheart.png?raw=true" width="20" alt="heart"/>
+  <img src="https://github.com/rimshashoaib04/rimshashoaib04/blob/main/images/MCheart.png?raw=true" width="20" alt="heart"/>
+    </td>
       <td align="center" width="200">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript Logo"/>
+  <br>
+  <b>TypeScript</b>
+  <br>
+  <img src="https://github.com/rimshashoaib04/rimshashoaib04/blob/main/images/MCheart.png?raw=true" width="20" alt="heart"/>
+  <img src="https://github.com/rimshashoaib04/rimshashoaib04/blob/main/images/MCheart.png?raw=true" width="20" alt="heart"/>
+     </td>
+       <td align="center" width="200">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/><br>
         <b>React</b><br>
         <img src="https://github.com/rimshashoaib04/rimshashoaib04/blob/main/images/MCheart.png?raw=true" width="20"/>
@@ -24,31 +41,20 @@
         <img src="https://github.com/rimshashoaib04/rimshashoaib04/blob/main/images/MCheart.png?raw=true" width="20"/>
       </td>
       <td align="center" width="200">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/><br>
-        <b>Node.js</b><br>
-        <img src="https://github.com/rimshashoaib04/rimshashoaib04/blob/main/images/MCheart.png?raw=true" width="20"/>
-        <img src="https://github.com/rimshashoaib04/rimshashoaib04/blob/main/images/MCheart.png?raw=true" width="20"/>
-        <img src="https://github.com/rimshashoaib04/rimshashoaib04/blob/main/images/MCheart.png?raw=true" width="20"/>
-      </td>
-      <td align="center" width="200">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40"/><br>
-        <b>Express</b><br>
-        <img src="https://github.com/rimshashoaib04/rimshashoaib04/blob/main/images/MCheart.png?raw=true" width="20"/>
-        <img src="https://github.com/rimshashoaib04/rimshashoaib04/blob/main/images/MCheart.png?raw=true" width="20"/>
-        <img src="https://github.com/rimshashoaib04/rimshashoaib04/blob/main/images/MCheart.png?raw=true" width="20"/>
-      </td>
-      <td align="center" width="200">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/><br>
-        <b>MongoDB</b><br>
-        <img src="https://github.com/rimshashoaib04/rimshashoaib04/blob/main/images/MCheart.png?raw=true" width="20"/>
-        <img src="https://github.com/rimshashoaib04/rimshashoaib04/blob/main/images/MCheart.png?raw=true" width="20"/>
-      </td>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind CSS Logo"/>
+  <br>
+  <b>Tailwind CSS</b>
+  <br>
+  <img src="https://github.com/rimshashoaib04/rimshashoaib04/blob/main/images/MCheart.png?raw=true" width="20" alt="heart"/>
+  <img src="https://github.com/rimshashoaib04/rimshashoaib04/blob/main/images/MCheart.png?raw=true" width="20" alt="heart"/>
+  <img src="https://github.com/rimshashoaib04/rimshashoaib04/blob/main/images/MCheart.png?raw=true" width="20" alt="heart"/>
+   </td>
     </tr>
   </table>
 </p>
 
 
-🏹 **Current quest:** Mastering security & cloud computing  
+🏹 **Current quest:** Building frontend projects with strong UX foundations & exploring HCI research concepts. 
 
 > “Every bug fixed is an XP orb earned!” ✨  
 
