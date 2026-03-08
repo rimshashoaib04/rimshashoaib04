@@ -1,68 +1,22 @@
 <h1 align="center">˚₊‧꒰ა ✦ ໒꒱ ‧₊˚</h1>
 
 <p align="center">
-  <img src="imgBanner.png" width="700" >
+  <img src="imgBanner.png" width="550" >
 </p>
 
 ---
 
 <div align="center">
 
-## 🌸 About Me 🌸
-◉ Mining bugs | ◉ Building frontend interfaces | ◉ Crafting smooth user experiences 
-## ⚔️ Skills
+## ❤︎ React Developer | Exploring Cloud & Security ❤︎
 
-<p align="center">
-  <table>
-    <tr>
-     <td align="center" width="200">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript Logo"/>
-  <br>
-  <b>JavaScript</b>
-  <br>
-  <img src="https://github.com/rimshashoaib04/rimshashoaib04/blob/main/images/MCheart.png?raw=true" width="20" alt="heart"/>
-  <img src="https://github.com/rimshashoaib04/rimshashoaib04/blob/main/images/MCheart.png?raw=true" width="20" alt="heart"/>
-  <img src="https://github.com/rimshashoaib04/rimshashoaib04/blob/main/images/MCheart.png?raw=true" width="20" alt="heart"/>
-    </td>
-      <td align="center" width="200">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript Logo"/>
-  <br>
-  <b>TypeScript</b>
-  <br>
-  <img src="https://github.com/rimshashoaib04/rimshashoaib04/blob/main/images/MCheart.png?raw=true" width="20" alt="heart"/>
-  <img src="https://github.com/rimshashoaib04/rimshashoaib04/blob/main/images/MCheart.png?raw=true" width="20" alt="heart"/>
-     </td>
-       <td align="center" width="200">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/><br>
-        <b>React</b><br>
-        <img src="https://github.com/rimshashoaib04/rimshashoaib04/blob/main/images/MCheart.png?raw=true" width="20"/>
-        <img src="https://github.com/rimshashoaib04/rimshashoaib04/blob/main/images/MCheart.png?raw=true" width="20"/>
-        <img src="https://github.com/rimshashoaib04/rimshashoaib04/blob/main/images/MCheart.png?raw=true" width="20"/>
-        <img src="https://github.com/rimshashoaib04/rimshashoaib04/blob/main/images/MCheart.png?raw=true" width="20"/>
-      </td>
-      <td align="center" width="200">
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind CSS Logo"/>
-  <br>
-  <b>Tailwind CSS</b>
-  <br>
-  <img src="https://github.com/rimshashoaib04/rimshashoaib04/blob/main/images/MCheart.png?raw=true" width="20" alt="heart"/>
-  <img src="https://github.com/rimshashoaib04/rimshashoaib04/blob/main/images/MCheart.png?raw=true" width="20" alt="heart"/>
-  <img src="https://github.com/rimshashoaib04/rimshashoaib04/blob/main/images/MCheart.png?raw=true" width="20" alt="heart"/>
-   </td>
-    </tr>
-  </table>
-</p>
-
-
-🏹 **Current quest:** Building frontend projects with strong UX foundations & exploring HCI research concepts. 
-
-> “Every bug fixed is an XP orb earned!” ✨  
+## ──── ୨୧ ────
 
 </div>
 
 <div align="center">
 
-## 🌸 Connect With Me 🌸
+##  Connect with me >ᴗ< ⭑.ᐟ
 
 <div align="center">
   <a href="mailto:rimsha0401shoaib@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=ff69b4&logoColor=white&labelColor=&style=for-the-badge" alt="gmail logo" /></a>
@@ -73,7 +27,7 @@
 
 <div align="center">
 
-## 📦 My Inventory
+## Technologies i've worked with :
 
 <p align="center">
 <!-- Languages -->
@@ -110,8 +64,6 @@
 
 
 <div align="center">
-  
-### ⭐️ "Code like you're building the next great Minecraft mod!" ⭐️
 </div>
 </div>
 
