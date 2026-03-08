@@ -1,7 +1,7 @@
 <h1 align="center">˚₊‧꒰ა ✦ ໒꒱ ‧₊˚</h1>
 
 <p align="center">
-  <img src="imgBanner.png" width="600">
+  <img src="imgBanner.png" width="700" >
 </p>
 
 ---
