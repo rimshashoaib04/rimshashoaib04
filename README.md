@@ -1,7 +1,7 @@
-<h1 align="center">🌸 My GitHub Realm.ᐟ.ᐟ 🌸</h1>
+<h1 align="center">˚₊‧꒰ა ✦ ໒꒱ ‧₊˚</h1>
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/45/d2/ef/45d2ef602219a1b0d109fc54efbaf580.jpg" width="650" />
+  <img src="Banner.png" width="600">
 </p>
 
 ---
