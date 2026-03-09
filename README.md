@@ -27,7 +27,7 @@
 
 <div align="center">
 
-## Technologies i've worked with :
+## Technologies I've worked with :
 
 <p align="center">
 <!-- Languages -->
