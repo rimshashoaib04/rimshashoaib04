@@ -7,7 +7,7 @@
 
 <div align="center">
 
-## ❤︎ React Developer | Learning Cybersecurity ❤︎
+## ❤︎ Full Stack Developer ❤︎
 
 ## ──── ୨୧ ────
 
